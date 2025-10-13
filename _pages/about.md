@@ -23,6 +23,7 @@ I'm passionate about **OSINT**, **Threat Hunting**, and **System Security**.
 
 | 📅 Year | 🏫 Institution | 📚 Course | 🏅 CGPA & Rank |
 | --- | --- | --- | --- |
+| 2025–Present | National Forensic Sciences University | Ph.D. CyberSecurity and Digital Forensics |
 | 2023–2025 | National Forensic Sciences University | MSc. CyberSecurity | 8.00 |
 | 2020–2023 | Goa University | Bachelor of Computer Applications | 8.62 |
 

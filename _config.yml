@@ -13,7 +13,7 @@ title                    : "Rasenkai"
 title_separator          : "-"
 name                     : &name "Rasenkai"
 description        : |
-  CyberSecurity Postgrad and Android kernel hacker
+  CyberSecurity Ph.D Scholar and Android kernel hacker
 url                      : "https://rasenkai.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
