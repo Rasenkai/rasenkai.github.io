@@ -13,7 +13,7 @@ title                    : "Rasenkai"
 title_separator          : "-"
 name                     : &name "Rasenkai"
 description        : |
-  CyberSecurity Ph.D Scholar and Android kernel hacker
+  CyberSecurity Ph.D Scholar | Threat Intel and Security Governance
 url                      : "https://rasenkai.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Rasenkai"
-  bio              : "CyberSecurity Postgrad and Android kernel hacker"
+  bio              : "CyberSecurity Ph.D Scholar | Threat Intel and Security Governance"
   location         : "Goa"
   employer         : "National Forensic Sciences University"
   email            : "rasenkai@protonmail.com"
